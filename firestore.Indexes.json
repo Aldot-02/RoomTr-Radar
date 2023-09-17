@@ -1,0 +1,46 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "AppUsers",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "UserRole",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Name",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "role",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "display_name",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Bookings",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "uid",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Time",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
