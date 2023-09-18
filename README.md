@@ -11,11 +11,11 @@
 
 [TOC]
 
-##The story
+## The story
 
 [**RoomTr Radar**](https://app.flutterflow.io/run/0cuIxQjHtbbSbhxvnXMn) is born from the shared frustrations of students seeking available spaces in educational institutions. The project aims to transform how students and staff interact with their learning environments, offering streamlined room booking and a visual representation of availability. Beyond a requirement, it's a passionate endeavor to enhance the educational experience for all, from students needing conducive study areas to administrators optimizing space utilization.
 
-##Introduction
+## Introduction
 
 [**RoomTr Radar**](https://app.flutterflow.io/run/0cuIxQjHtbbSbhxvnXMn) is a user-friendly mobile application designed to simplify the process of booking rooms within educational institutions. It provides real-time information on room availability, empowering students and staff to effortlessly find and reserve spaces for various activities. With an intuitive interface and robust features, RoomTr Radar revolutionizes how educational spaces are managed, ensuring efficient utilization and a seamless booking experience.
 
@@ -31,93 +31,82 @@ Now, I am proud to introduce a solution that embodies the spirit of innovation a
 
 I invite you to explore RoomTr Radar and experience firsthand how it can transform the educational landscape.
 
-##Getting started
+## Getting started
 
 Access it on roomtr-radar.com, create an account today, and enjoy seamless booking with us. This is for educational institutions only. If you would like to use it personally, tell your institution to register, and they will send you the invitation link to join.
 
 * You do not need any other pre-requisite to start, no need for machine, and it is accessible on your mobile phone
 * To explore features without logging in, check out our [get started Tutorial](https://www.youtube.com/watch?v=RoS7MBBGBjI)
 
-##Screenshots
+## Screenshots
+[![Landing Page](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-01.PNG?raw=true "Landing Page")](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-01.PNG?raw=true "Landing Page")
+![Authentication Page](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-02.PNG?raw=true)
+![Create Account Page](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-03.PNG?raw=true)
+![Login Page](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-04.PNG?raw=true)
+![Home Page](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-05.PNG?raw=true)
+![Booking A Room Page](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-06.PNG?raw=true)
+![Bookings Page](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-07.PNG?raw=true)
+![Admin Dashboard Page](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-08.PNG?raw=true)
+![Settings Page](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-09.PNG?raw=true)
+![Registering a Room Page](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-10.PNG?raw=true)
 
-> Landing Page.
-![](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-01.PNG?raw=true)
-> Authentication Page.
-![](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-02.PNG?raw=true)
-> Create Account Page.
-![](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-03.PNG?raw=true)
-> Login Page.
-![](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-04.PNG?raw=true)
-> Home Page.
-![](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-05.PNG?raw=true)
-> Booking A Room Page.
-![](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-06.PNG?raw=true)
-> Bookings Page.
-![](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-07.PNG?raw=true)
-> Admin Dashboard Page.
-![](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-08.PNG?raw=true)
-> Settings Page.
-![](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-09.PNG?raw=true)
-> Registering a Room Page.
-![](https://github.com/Aldot-02/RoomTr-Radar/blob/master/Assets/Page-10.PNG?raw=true)
+## Features
 
-##Features
-
-###Authentication
+### Authentication
 -------
 This feature ensures secure access to the application. Users can create an account (Sign up), log in to their existing account (Login), and recover their password in case it's forgotten (Forgot password).
 
-###Landing Page
+### Landing Page
 ----------
 The Landing Page is the initial screen users encounter when they visit the application. It provides an overview and introduction to RoomTr Radar, and direct the users to the authentication page where they could register to be part of the App.
 
-###Welcome Page
+### Welcome Page
 -----------
 This offers a warm welcome and introduction to the platform upon login, enhancing user engagement.
 
-###Admin Dashboard
+## Admin Dashboard
 -------------
 This allows an educational institution admin the capabilities to control the organization's data accross the platform, giving them the capability to Create, Read, Update, and Delete different organization's data.
 
-####Adding a Room
+### Adding a Room
 -------------
 Empowers administrators to include new rooms in the system, complete with details and availability.
 
-####Adding a staff member
+### Adding a staff member
 ------------
 Allows administrators to onboard staff members, ensuring efficient management of room bookings.
 
-####Adding students
+### Adding students
 --------------
 Facilitates the enrollment of students into the platform, ensuring seamless booking processes.
 
-####Editing a Room
+### Editing a Room
 ------------------
 Provides administrators with the ability to modify room information, keeping data accurate and up to date.
 
-####Editing a Profile
+### Editing a Profile
 --------------
 Enables users to update their profile information for a personalized experience.
 
-###Main Pages
+## Main Pages
 ---------------
 This consist of different pages to navigate to while you want to Book a certain Room.
 
-####View your Bookings
+### View your Bookings
 ---------------
 This page provides an overview of all the rooms you've booked. It includes details such as booking dates, room specifications, and any additional notes.
 
-####See Available rooms
+### See Available rooms
 ------------------
 Here, you can explore the list of rooms that are currently available for booking. It provides crucial information like room capacity, amenities, and availability status.
 
-####My Account
+### My Account
 ----------------
 This section allows you to access and modify your account details and settings. You can update personal information, change passwords, and manage notification preferences. This ensures a personalized experience tailored to your preferences.
 
 
 ---------------------
-##Email Authentication in RoomTr Radar
+## Email Authentication in RoomTr Radar
 
 RoomTr Radar employs Email Authentication to ensure a secure and reliable user registration and login process. Here's how it works within the application:
 
@@ -150,21 +139,21 @@ RoomTr Radar employs Email Authentication to ensure a secure and reliable user r
 
 This robust Email Authentication process enhances security and ensures that users provide valid and accessible email addresses. It also enables secure password recovery, making it easier for users to regain access to their accounts. Overall, this implementation aligns with industry best practices for user authentication.
 
-##Front End
+## Front End
 
 - RoomTr Radar's frontend is developed using Flutter Flow, an intuitive app development platform based on Flutter.
 - Flutter Flow employs a drag-and-drop interface, expediting the UI design process and ensuring an intuitive user experience using dart programming language.
 
 ---------------------
-##Back End
+## Back End
 
 - The backend of RoomTr Radar leverages Firebase, a comprehensive cloud-based suite of tools and services.
 - Firestore, a NoSQL cloud database within Firebase, is utilized for efficient data storage, retrieval, and real-time updates.
 - Firebase Authentication is employed for secure user sign-ins and registrations, ensuring robust identity verification and access control.
 - Firebase provides essential backend functionalities including real-time data synchronization, authentication, and database management.
 
-##Authors
+## Authors
 
 Aldo TWIZERIMANA [twizald.02@gmail.com]
 
-##END
+## END
